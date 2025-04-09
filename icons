@@ -1,0 +1,15 @@
+<script>start("c:\\Users\\İrem\\Desktop\\js\\proje\\icons\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("box.png","box.png",0,30217,"29.5 kB",1744142005,"4/8/25, 10:53:25 PM");</script>
+<script>addRow("buyer.png","buyer.png",0,30174,"29.5 kB",1744142018,"4/8/25, 10:53:38 PM");</script>
+<script>addRow("discount.png","discount.png",0,27091,"26.5 kB",1744142505,"4/8/25, 11:01:45 PM");</script>
+<script>addRow("gift.png","gift.png",0,3107,"3.0 kB",1744148000,"4/9/25, 12:33:20 AM");</script>
+<script>addRow("heart.png","heart.png",0,36292,"35.4 kB",1744142362,"4/8/25, 10:59:22 PM");</script>
+<script>addRow("logout.png","logout.png",0,1037,"1.0 kB",1744221635,"4/9/25, 9:00:35 PM");</script>
+<script>addRow("love.png","love.png",0,13560,"13.2 kB",1744142319,"4/8/25, 10:58:39 PM");</script>
+<script>addRow("mobile-shopping.png","mobile-shopping.png",0,42031,"41.0 kB",1744141944,"4/8/25, 10:52:24 PM");</script>
+<script>addRow("notification.png","notification.png",0,3154,"3.1 kB",1744221256,"4/9/25, 8:54:16 PM");</script>
+<script>addRow("sale-tag.png","sale-tag.png",0,20245,"19.8 kB",1744142492,"4/8/25, 11:01:32 PM");</script>
+<script>addRow("shopping-bag.png","shopping-bag.png",0,24561,"24.0 kB",1744141993,"4/8/25, 10:53:13 PM");</script>
+<script>addRow("shopping-cart.png","shopping-cart.png",0,2135,"2.1 kB",1744221083,"4/9/25, 8:51:23 PM");</script>
+<script>addRow("woman.png","woman.png",0,43637,"42.6 kB",1744141974,"4/8/25, 10:52:54 PM");</script>
