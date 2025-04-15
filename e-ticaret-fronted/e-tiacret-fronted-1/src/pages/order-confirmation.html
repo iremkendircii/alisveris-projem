@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Confirmation</title>
+    <link rel="stylesheet" href="../styles/global.css">
+</head>
+<body>
+    <div class="confirmation-container">
+        <h1>Thank You for Your Order!</h1>
+        <p>Your order has been successfully placed.</p>
+        <p>Order Number: <span id="order-number"></span></p>
+        <p>We will send you an email confirmation shortly.</p>
+        <a href="order.html">View Your Orders</a>
+        <a href="index.html">Return to Home</a>
+    </div>
+    <script src="../scripts/main.js"></script>
+    <script>
+        // Assuming order number is passed via URL or stored in local storage
+        document.getElementById('order-number').textContent = localStorage.getItem('orderNumber') || 'N/A';
+    </script>
+</body>
+</html>
